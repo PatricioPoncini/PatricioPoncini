@@ -11,9 +11,8 @@ Aunque me gusta más el área de backend, también llevé a cabo proyectos donde
 - [Linkedin](https://www.linkedin.com/in/patricio-poncini/)
 - [Porftolio](https://patricio-poncini-page.netlify.app/)
 - [Blog](https://tripa-tech.vercel.app/)
-
 <h2 align="center">Lenguajes y tecnologías 💻</h2>
-<p align="left">
+<p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"></img>
     <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="40" height="40"></img>
@@ -26,4 +25,10 @@ Aunque me gusta más el área de backend, también llevé a cabo proyectos donde
     <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="40" height="40"></img>
 </p>
 
+<div align="center">
+
+<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatricioPoncini&show_icons=true&theme=dracula)
+
+</div>
