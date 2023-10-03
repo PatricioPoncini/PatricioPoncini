@@ -1,5 +1,7 @@
 <h1 align="center">¡Hola, soy Patricio Poncini!</h1>
-Soy un <b>desarrollador backend</b> que nació y vive en la ciudad de San Francisco, Córdoba, Argentina. Actualmente me encuentro estudiando la Tecnicatura Universitaria en Programación en la UTN de mi ciudad, y además trabajando en una consultora de mi ciudad.
+Soy un <b>desarrollador backend</b> que nació y vive en la ciudad de San Francisco, Córdoba, Argentina. Actualmente me encuentro estudiando la Tecnicatura Universitaria en Programación en la UTN de mi ciudad, y además trabajando en Legendaryum, una empresa del ámbito del metaverso. 
+
+Allí soy un desarrollador fullstack, en backend utilizo Typescript como tecnología principal junto con Express, y para el frontend igual pero usando el framework Vue.js entre otras tecnologías. Ademas, interactúo con bases de datos como MongoDB y Redis.
 
 </br>
 
@@ -24,11 +26,3 @@ Aunque me gusta más el área de backend, también llevé a cabo proyectos donde
     <img src="https://www.macformazione.com/wp-content/uploads/2022/04/Corso-Programmazione-C-Sharp.webp" width="40" height="40"></img>
     <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="40" height="40"></img>
 </p>
-
-<div align="center">
-
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatricioPoncini&show_icons=true&theme=dracula)
-
-</div>
