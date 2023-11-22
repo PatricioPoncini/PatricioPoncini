@@ -25,4 +25,6 @@ Aunque me gusta más el área de backend, también llevé a cabo proyectos donde
     <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="40" height="40"></img>
     <img src="https://www.macformazione.com/wp-content/uploads/2022/04/Corso-Programmazione-C-Sharp.webp" width="40" height="40"></img>
     <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="40" height="40"></img>
+    <img src="https://static-00.iconduck.com/assets.00/redis-plain-icon-2048x1748-fmvimw1g.png" width="40" height="40"></img>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" width="40" height="40"></img>
 </p>
