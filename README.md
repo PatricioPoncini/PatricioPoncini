@@ -10,9 +10,9 @@ Aunque me gusta más el área de backend, también llevé a cabo proyectos donde
 
 <h2 align="center">Contacto y links de interés 🌐</h2>
 
-- [Linkedin](https://www.linkedin.com/in/patricio-poncini/)
-- [Porftolio](https://patricio-poncini-page.netlify.app/)
-- [Blog](https://tripa-tech.vercel.app/)
+- [LINKEDIN](https://www.linkedin.com/in/patricio-poncini/)
+- [PORTFOLIO](https://patricio-poncini-page.netlify.app/)
+- [BLOG](https://tripa-tech.vercel.app/)
 <h2 align="center">Lenguajes y tecnologías 💻</h2>
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40"></img>
