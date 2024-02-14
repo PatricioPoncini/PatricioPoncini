@@ -26,5 +26,4 @@ Aunque me gusta más el área de backend, también llevé a cabo proyectos donde
     <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="40" height="40"></img>
     <img src="https://static-00.iconduck.com/assets.00/redis-plain-icon-2048x1748-fmvimw1g.png" width="40" height="40"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" width="40" height="40"></img>
-     <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" width="40" height="40"></img>
 </p>
