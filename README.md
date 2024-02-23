@@ -15,15 +15,5 @@ Aunque me gusta más el área de backend, también llevé a cabo proyectos donde
 - [BLOG](https://tripa-tech.vercel.app/)
 <h2 align="center">Lenguajes y tecnologías 💻</h2>
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"></img>
-    <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="40" height="40"></img>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" width="40" height="40"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="40" height="40"></img>
-    <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="80" height="40"></img>
-    <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="40" height="40"></img>
-    <img src="https://www.macformazione.com/wp-content/uploads/2022/04/Corso-Programmazione-C-Sharp.webp" width="40" height="40"></img>
-    <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="40" height="40"></img>
-    <img src="https://static-00.iconduck.com/assets.00/redis-plain-icon-2048x1748-fmvimw1g.png" width="40" height="40"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" width="40" height="40"></img>
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,git,docker,mysql,mongodb,html,css,vue,tailwind" />
 </p>
