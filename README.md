@@ -1,18 +1,19 @@
-<h1 align="center">¡Hola, soy Patricio Poncini!</h1>
-Soy un <b>desarrollador backend</b> que nació y vive en la ciudad de San Francisco, Córdoba, Argentina. Actualmente me encuentro estudiando la Tecnicatura Universitaria en Programación en la UTN de mi ciudad.
+<h1 align="center"><code>¡Bienvenido a mi perfil de Github!</code></h1>
+<p align="center">Mi nombre es <b>Patricio Poncini</b>. Soy un <b>desarrollador backend</b> que nació y vive en la ciudad de San Francisco, Córdoba, Argentina. Actualmente me encuentro estudiando la Tecnicatura Universitaria en Programación en la UTN de mi ciudad.</p>
 
 
-Además, me encuentro trabajando en Legendaryum, una empresa enfocada en el desarrollo de metaverso. Aquí cumplo el rol de desarrollador backend, utilizando Typescript y Golang como lenguajes principales.
+<p align="center">Además, me encuentro trabajando en Legendaryum, una empresa enfocada en el desarrollo de metaverso. Aquí cumplo el rol de desarrollador backend, utilizando Typescript y Golang como lenguajes principales.</p>
 
-Aunque me gusta más el área de backend, también llevé a cabo proyectos donde desarrollé frontend y utilicé mis habilidades para unir estos 2 mundos.
-</br>
-
-<h2 align="center">Contacto y links de interés 🌐</h2>
-
-- [LINKEDIN](https://www.linkedin.com/in/patricio-poncini/)
-- [PORTFOLIO](https://patricio-poncini-page.netlify.app/)
-- [BLOG](https://tripa-tech.vercel.app/)
-<h2 align="center">Lenguajes y tecnologías 💻</h2>
+<p align="center">Aunque mi área de backend, también llevé a cabo proyectos donde desarrollé frontend y utilicé mis habilidades para unir estas 2 áreas.</p>
+<h2 align="center"><code>Lenguajes y tecnologías</code></h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,git,docker,mysql,mongodb,html,css,vue,tailwind" />
+</p>
+
+<h2 align="center"><code>Contacto y links de interés</code></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/patricio-poncini/" target="_blank">LINKEDIN</a> |
+  <a href="https://patricio-poncini-page.netlify.app/" target="_blank">PORTFOLIO</a> |
+  <a href="https://tripa-tech.vercel.app/" target="_blank">BLOG</a>
 </p>
