@@ -7,7 +7,7 @@
 <p align="center">Aunque mi área de backend, también llevé a cabo proyectos donde desarrollé frontend y utilicé mis habilidades para unir estas 2 áreas.</p>
 <h2 align="center"><code>Lenguajes y tecnologías</code></h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,git,docker,mysql,mongodb,html,css,vue,tailwind" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,go,git,docker,mysql,mongodb,vue" />
 </p>
 
 <h2 align="center"><code>Contacto y links de interés</code></h2>
