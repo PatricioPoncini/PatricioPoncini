@@ -2,7 +2,7 @@
 <p align="center">Mi nombre es <b>Patricio Poncini</b>. Soy un <b>desarrollador backend</b> que nació y vive en la ciudad de San Francisco, Córdoba, Argentina. Actualmente me encuentro estudiando la Tecnicatura Universitaria en Programación en la UTN de mi ciudad.</p>
 
 
-<p align="center">Además, me encuentro trabajando en Legendaryum, una empresa enfocada en el desarrollo de metaverso. Aquí cumplo el rol de desarrollador backend, utilizando Typescript y Golang como lenguajes principales.</p>
+<p align="center">Además, me encuentro trabajando en Legendaryum, una empresa enfocada en el desarrollo de gaming en la web. Aquí cumplo el rol de desarrollador backend, utilizando Typescript y Golang como lenguajes principales.</p>
 
 <p align="center">Aunque mi pasión es el backend, también llevé a cabo proyectos donde desarrollé frontend y utilicé mis habilidades para unir estas 2 áreas.</p>
 <h2 align="center"><code>Lenguajes y tecnologías</code></h2>
