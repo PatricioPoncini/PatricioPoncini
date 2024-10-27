@@ -1,19 +1,9 @@
-<h1 align="center"><code>¡Bienvenido a mi perfil de Github!</code></h1>
-<p align="center">Mi nombre es <b>Patricio Poncini</b>. Soy un <b>desarrollador backend</b> que nació y vive en la ciudad de San Francisco, Córdoba, Argentina. Actualmente me encuentro estudiando la Tecnicatura Universitaria en Programación en la UTN de mi ciudad.</p>
+# ⚡ About Me:
+🚀 I am currently working on **Legendaryum**.<br>🤝 I am looking to collaborate on projects related to backend development.<br>🌱 I am currently deepening my knowledge of **Go** and **TypeScript** to further enhance my skills as a developer.<br>🔍 I am also starting to learn and explore the **Rust** programming language.<br>💬 Feel free to ask me about **REST API development, microservices**, or anything related to backend technologies.
 
 
-<p align="center">Además, me encuentro trabajando en Legendaryum, una empresa enfocada en el desarrollo de gaming en la web. Aquí cumplo el rol de desarrollador backend, utilizando Typescript y Golang como lenguajes principales.</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patricio-poncini) 
 
-<p align="center">Aunque mi pasión es el backend, también llevé a cabo proyectos donde desarrollé frontend y utilicé mis habilidades para unir estas 2 áreas.</p>
-<h2 align="center"><code>Lenguajes y tecnologías</code></h2>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,go,git,docker,mysql,mongodb,vue" />
-</p>
-
-<h2 align="center"><code>Contacto y links de interés</code></h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/patricio-poncini/" target="_blank">LINKEDIN</a> |
-  <a href="https://patricio-poncini-page.netlify.app/" target="_blank">PORTFOLIO</a> |
-  <a href="https://tripa-tech.vercel.app/" target="_blank">BLOG</a>
-</p>
+## 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
