@@ -1,5 +1,5 @@
 # ⚡ About Me:
-🚀 I am currently working on **Legendaryum**.<br>🤝 I am looking to collaborate on projects related to fullstack development.<br>🌱 I am currently deepening my knowledge of **Go** and **TypeScript** to further enhance my skills as a developer.<br>🔍 I am also starting to learn and explore the **Rust** programming language.<br>💬 Feel free to ask me about **REST API development, microservices**, or anything related to web development.
+🚀 I am currently working on **Legendaryum**.<br>🤝 I am looking to collaborate on projects related to web development.<br>🌱 I am currently deepening my knowledge of **Go** and **TypeScript** to further enhance my skills as a developer.<br>🔍 I am also starting to learn and explore the **Rust** programming language.<br>💬 Feel free to ask me about **REST API development, microservices**, or anything related to web development.
 
 
 ## 🌐 Socials:
