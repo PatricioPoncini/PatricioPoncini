@@ -1,5 +1,5 @@
 # ⚡ About Me
-🚀 I am currently working on **itti**.<br>🤝 I am looking to collaborate on projects related to backend development.<br>🌱 I work with **TypeScript** and **Go**, continuously refining my skills in these languages.<br>💬 Feel free to ask me about **REST API development, microservices**, **backend architectures**, or **low-level development topics** like performance, concurrency, and systems design
+🚀 I am currently working on **itti**.<br>🤝 I am looking to collaborate on projects related to backend development.<br>🌱 I work with **Go** and **TypeScript**, continuously refining my skills in these languages.<br>💬 Feel free to ask me about **REST API development, microservices**, **backend architectures**, or **low-level development topics** like performance, concurrency, and systems design
 
 
 ## 🌐 Socials
