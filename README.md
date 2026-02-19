@@ -1,10 +1,34 @@
-# ⚡ About Me
-🚀 I am currently working on **itti**.<br>🤝 I am looking to collaborate on projects related to backend development.<br>🌱 I work with **Go** and **Typescript**, continuously refining my skills in these languages.<br>💬 Feel free to ask me about **REST API development, microservices**, **backend architectures**, or **low-level development topics** like performance, concurrency, and systems design
+# `Hi there! I'm Pato 👋`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Backend%20Engineer-blue?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-Córdoba,%20AR-77b5fe?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+I am a **Backend Software Engineer** and **Programming Technician** with extensive experience in designing, developing, and optimizing scalable systems using **Go**, **Kotlin**, and **TypeScript**. Currently working at **itti**, I specialize in building robust architectures, service integration, and efficient data persistence. 
+
+My focus is on technical excellence, security, and writing clean, sustainable code, always prioritizing efficient solutions to complex technical requirements.
+
+> *"First, solve the problem. Then, write the code."*
+---
+### `🛠️ Professional Tech Stack`
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) |
+
+---
+### `📫 Let's connect`
+
+<p align="left">
+<a href="https://linkedin.com/in/patricio-poncini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://patricioponcini.com.ar/" target="_blank"><img src="https://img.shields.io/badge/Website-%23E69500.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patricio-poncini)  
-[![Personal Website](https://img.shields.io/badge/Personal_Website-%23E69500.svg?logo=firefox&logoColor=white)](https://patricioponcini.com.ar/)  
-
-## 💻 Tech Stack
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <b>Send me a <code>/ping</code> if you want to chat about backend architectures, Go microservices, or distributed systems!</b>
+</p>
