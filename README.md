@@ -1,17 +1,29 @@
-# `Hi there! I'm Pato 👋`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Backend%20Engineer-1a1a2e?style=flat-square&labelColor=0f0f1a" alt="Role" />
-  <img src="https://img.shields.io/badge/Location-Córdoba,%20AR-1a1a2e?style=flat-square&labelColor=0f0f1a&logo=googlemaps&logoColor=77b5fe" alt="Location" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1e2a44,100:0a0e1a&height=200&section=header&text=Patricio%20Poncini&fontSize=42&fontColor=c9d6e8&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Engineer&descAlignY=58&descSize=17&descColor=5b6b8c" alt="banner" width="100%"/>
 </p>
 
-I am a **Backend Software Engineer** and **Programming Technician** with extensive experience in designing, developing, and optimizing scalable systems using **Go**, **Kotlin**, and **TypeScript**. Currently working at **itti**, I specialize in building robust architectures, service integration, and efficient data persistence.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=C9D6E8&center=true&vCenter=true&width=560&lines=Go+%7C+Kotlin+%7C+TypeScript;Serverless+architectures+on+AWS;Building+scalable%2C+resilient+systems" alt="typing" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Backend%20Engineer-0a0e1a?style=flat-square&labelColor=1e2a44&color=0a0e1a" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-Córdoba,%20AR-0a0e1a?style=flat-square&labelColor=1e2a44&color=0a0e1a" alt="Location" />
+</p>
+
+<p align="center" style="color:#5b6b8c">
+I am a <b>Backend Software Engineer</b> and <b>Programming Technician</b> with extensive experience in designing, developing, and optimizing scalable systems using <b>Go</b>, <b>Kotlin</b>, and <b>TypeScript</b>. Currently working at <b>itti</b>, I specialize in building robust architectures, service integration, and efficient data persistence.
+</p>
+
+<p align="center">
 My focus is on technical excellence, security, and writing clean, sustainable code, always prioritizing efficient solutions to complex technical requirements.
+</p>
 
-> *"First, solve the problem. Then, write the code."*
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,100:1e2a44&height=3&section=header" width="100%"/>
 
 ### `🛠️ Professional Tech Stack`
 
@@ -39,6 +51,8 @@ My focus is on technical excellence, security, and writing clean, sustainable co
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions" alt="AWS, GCP, Docker, GitHub Actions" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e2a44,100:0a0e1a&height=3&section=header" width="100%"/>
 
-<p align="left"> <a href="https://linkedin.com/in/patricio-poncini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://patricioponcini.com.ar/" target="_blank"><img src="https://img.shields.io/badge/Website-E69500?style=for-the-badge&logo=firefox&logoColor=white" /></a> </p> <p align="left"> <b>Send me a <code>/ping</code> if you want to chat about backend architectures, Go microservices, or distributed systems!</b> </p>
+### `📫 Let's connect`
+
+<p align="left"> <a href="https://linkedin.com/in/patricio-poncini" target="_blank"><img src="./assets/pill-linkedin.svg" alt="LinkedIn" /></a> <a href="https://patricioponcini.com.ar/" target="_blank"><img src="./assets/pill-website.svg" alt="Website" /></a> </p> <p align="left"> <b>Send me a <code>/ping</code> if you want to chat about backend architectures, Go microservices, or distributed systems!</b> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1e2a44,100:0a0e1a&height=100&section=footer" width="100%"/>
