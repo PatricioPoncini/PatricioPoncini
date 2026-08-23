@@ -25,34 +25,53 @@ My focus is on technical excellence, security, and writing clean, sustainable co
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,100:1e2a44&height=3&section=header" width="100%"/>
 
-### `🛠️ Professional Tech Stack`
+<h3 align="center">🛠️ Professional Tech Stack</h3>
 
-**Languages**
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,kotlin,ts" alt="Go, Kotlin, TypeScript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=go,kotlin,ts" alt="Go, Kotlin, TypeScript" />
+<p align="center"><b>Backend Frameworks</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Node.js, Express, Spring Boot" />
+</p>
 
-**Backend Frameworks**
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb" alt="PostgreSQL, MySQL, MongoDB, Redis, DynamoDB" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Node.js, Express, Spring Boot" />
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,html,css" alt="Vue.js, TailwindCSS, HTML5, CSS3" />
+</p>
 
-**Databases**
+<p align="center"><b>Service Communication</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb" alt="PostgreSQL, MySQL, MongoDB, Redis, DynamoDB" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=vue,tailwind,html,css" alt="Vue.js, TailwindCSS, HTML5, CSS3" />
-
-**Service Communication**
-
-<img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
-
-**Cloud & Infra**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions" alt="AWS, GCP, Docker, GitHub Actions" />
+<p align="center"><b>Cloud & Infra</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions" alt="AWS, GCP, Docker, GitHub Actions" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e2a44,100:0a0e1a&height=3&section=header" width="100%"/>
 
-### `📫 Let's connect`
+<h3 align="center">📫 Let's connect</h3>
 
-<p align="left"> <a href="https://linkedin.com/in/patricio-poncini" target="_blank"><img src="./assets/pill-linkedin.svg" alt="LinkedIn" /></a> <a href="https://patricioponcini.com.ar/" target="_blank"><img src="./assets/pill-website.svg" alt="Website" /></a> </p> <p align="left"> <b>Send me a <code>/ping</code> if you want to chat about backend architectures, Go microservices, or distributed systems!</b> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1e2a44,100:0a0e1a&height=100&section=footer" width="100%"/>
+<p align="center">
+  <a href="https://linkedin.com/in/patricio-poncini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Patricio%20Poncini-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=c9d6e8&labelColor=1e2a44" alt="LinkedIn" />
+  </a>
+  <a href="https://patricioponcini.com.ar/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-patricioponcini.com.ar-0a0e1a?style=for-the-badge&logo=googlechrome&logoColor=c9d6e8&labelColor=1e2a44" alt="Website" />
+  </a>
+</p>
+
+<p align="center" style="color:#5b6b8c">
+  <b>Send me a <code>/ping</code> if you want to chat about backend architectures, Go microservices, or distributed systems!</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1e2a44,100:0a0e1a&height=100&section=footer" width="100%"/>
